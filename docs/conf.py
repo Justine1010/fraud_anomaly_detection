@@ -1,4 +1,4 @@
-from os.path import dirname, abspath
+from os.path import dirname, abspath 
 
 import sphinx_rtd_theme
 import os
