@@ -1,2 +1,3 @@
 docs/* linguist-documentation
 examples/*.ipynb linguist-documentation=false
+ignore

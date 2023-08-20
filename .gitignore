@@ -8,6 +8,7 @@ docs/_build
 *.py[cod]
 *$py.class
 
+# Templates
 # C extensions
 *.so
 .pytest_cache/

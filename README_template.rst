@@ -1,4 +1,4 @@
-.. image:: docs/logo.png
+.. image:: docs/logo.png 
     :align: center
 
 .. include:: docs/badges.rst

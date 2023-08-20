@@ -1,6 +1,6 @@
 build: off
 
-# branches to build
+# branches to build and show
 branches:
   # whitelist
   only:

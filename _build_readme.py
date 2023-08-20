@@ -12,3 +12,4 @@ with open("README_template.rst", "r") as f:
 
 with open("README.rst", "w+") as f:
     f.write(res)
+print("worked")
